@@ -85,7 +85,7 @@ const Experience = () => {
         className="text-center mb-14"
       >
         <p className="text-blue-400 text-sm uppercase tracking-wider">
-          What I have done so far
+          What We have done so far
         </p>
         <h2 className="text-white text-4xl font-bold">Work Experience</h2>
       </motion.div>

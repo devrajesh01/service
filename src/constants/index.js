@@ -107,47 +107,72 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Html Developer",
-    company_name: "Weavers Web",
-    icon: weavers,
-    iconBg: "#fff",
-    date: "Sept 2022 - Jan 2023",
-    points: [
-      "Developed responsive web pages using HTML, CSS, and basic JavaScript.",
-      "Converted design mockups into clean, semantic code.",
-      "Ensured cross-browser compatibility and mobile responsiveness.",
-      "Assisted in content updates and theme customization on WordPress.",
-    ],
-  },
-  {
-    title: "Php Wordpress Developer",
-    company_name: "Esolz Technology",
+    title: "TechifyLabs Founded",
+    company_name: "TechifyLabs",
     icon: esolz,
-    iconBg: "#1011a1",
-    date: "Jul 2023 - Oct 2024",
+    iconBg: "#fff",
+    date: "2019",
     points: [
-      "Converted static HTML/CSS templates into fully functional custom WordPress themes.",
-      "Integrated dynamic features using PHP, WordPress loops, and template hierarchy.",
-      "Created and registered custom menus, widgets, and theme options for client control.",
-      "Implemented ACF for flexible content management within the WordPress admin panel.",
+      "TechifyLabs started as a small web development team focused on delivering clean and modern digital solutions.",
+      "Began offering core services including HTML, CSS, JavaScript, and basic website development.",
+      "Built our first set of client websites with responsive and mobile-friendly layouts.",
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "Delostylestudio Pvt Ltd",
-    icon: dst,
-    iconBg: "#fff",
-    date: "Nov 2024 - Present",
+    title: "Web Development Expansion",
+    company_name: "TechifyLabs",
+    icon: esolz,
+    iconBg: "#E6E6FA",
+    date: "2020 - 2021",
     points: [
-      "Developed dynamic and responsive web applications using React.js and modern JavaScript (ES6+).",
-      "Built reusable components and managed application state using hooks and context API.",
-      "Integrated REST APIs to fetch and display dynamic data within React components.",
-      "Converted UI/UX designs into pixel-perfect front-end interfaces using Tailwind CSS and styled-components.",
-      "Optimized performance through code-splitting, lazy loading, and efficient rendering techniques."
+      "Expanded into full-stack development using React, PHP, Laravel, and WordPress.",
+      "Delivered custom web applications, business websites, and CMS-based solutions.",
+      "Introduced UI/UX design improvements for better user experience.",
+      "Started working with international clients for web-based solutions.",
     ],
   },
-  
+  {
+    title: "Mobile Application Development",
+    company_name: "TechifyLabs",
+    icon: esolz,
+    iconBg: "#fff",
+    date: "2021 - 2022",
+    points: [
+      "Launched mobile app development services for both iOS and Android.",
+      "Built cross-platform applications using modern frameworks.",
+      "Integrated APIs, authentication systems, and cloud infrastructure.",
+      "Delivered user-friendly mobile apps for business use cases.",
+    ],
+  },
+  {
+    title: "E-commerce & CMS Expertise",
+    company_name: "TechifyLabs",
+    icon: esolz,
+    iconBg: "#DFF6FF",
+    date: "2022 - 2023",
+    points: [
+      "Specialized in e-commerce platforms including Shopify and WooCommerce.",
+      "Developed custom Shopify themes, apps, and checkout customizations.",
+      "Created advanced WordPress plugins, custom themes, and automation features.",
+      "Provided cloud hosting, server setup, and ongoing support for clients.",
+    ],
+  },
+  {
+    title: "Team & Project Growth",
+    company_name: "TechifyLabs",
+    icon: esolz,
+    iconBg: "#fff",
+    date: "2024 - Present",
+    points: [
+      "Expanded team with skilled front-end, back-end, mobile, and QA developers.",
+      "Delivered 35+ successful projects across different industries.",
+      "Adopted modern frameworks including React, Next.js, Laravel, and Python.",
+      "Focused on clean code, performance optimization, and scalable architecture.",
+      "Continuing to innovate and deliver high-quality software solutions.",
+    ],
+  },
 ];
+
 
 const testimonials = [
   {

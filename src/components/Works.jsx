@@ -77,9 +77,7 @@ const Works = () => {
         {/* Description */}
         <div className="mt-6 max-w-3xl mx-auto text-gray-400 text-base md:text-lg leading-relaxed text-center">
           <p>
-            The following projects showcase my skills and experience through real-world examples of our dev team.
-            Each project is briefly described with links to code repositories and live demos. They reflect my
-            ability to solve complex problems, work with different technologies, and manage projects effectively.
+            The following projects showcase the skills, creativity, and expertise of the TechifyLabs development team. Each project includes a brief overview along with links to code repositories and live demos. These real-world examples highlight our ability to solve complex problems, work with a wide range of technologies, and deliver high-quality solutions through effective teamwork and project management.
           </p>
         </div>
 
